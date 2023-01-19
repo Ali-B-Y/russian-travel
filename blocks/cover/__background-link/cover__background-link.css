@@ -1,9 +1,7 @@
 .cover__background-link {
 	padding: 0;
-	margin: 92px auto 0;
-	width: calc(100% - 2*48px);
-	max-width: 1184px;
-	min-height: 740px;
+	margin: 0;
+	aspect-ratio: 1184/740;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;

@@ -1,11 +1,15 @@
 .places__paragraph {
 	padding: 0;
-	margin: 0 0 26px;
+	margin: 26px 0 0;
 	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 1.63;
+}
+
+.places__paragraph:first-of-type {
+	margin-top: 0;
 }
 
 @media screen and (max-width: 1000px) {
