@@ -1,0 +1,12 @@
+.places__link {
+	padding: 0;
+	margin: 12px 0 0;
+	display: block;
+	color: #fff;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 1.22;
+	transition: opacity 300ms linear;
+}
